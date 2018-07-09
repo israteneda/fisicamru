@@ -4,7 +4,7 @@ date = 2018-07-05
 draft = false
 +++
 
-{{< figure src="{{ .Site.BaseURL }}img/movimiento.png" width="500px">}}
+{{< figure src="/fisicamru/img/movimiento.png" width="500px">}}
 
 Un movimiento es rectilíneo cuando un objeto describe una trayectoria recta respecto 
 a un observador, y es uniforme cuando su velocidad es constante en el tiempo,

@@ -4,7 +4,7 @@ date = 2018-07-05
 draft = false
 +++
 
-{{< figure src="{{ .Site.BaseURL }}img/service.jpg" class="img-pages">}}
+{{< figure src="/fisicamru/img/service.jpg" class="img-pages">}}
 
 
 En la ingeniería de software se denomina aplicación web a aquellas herramientas 
