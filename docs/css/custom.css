@@ -1,0 +1,64 @@
+.img-blog {
+    width: 500px;
+    margin: 5rem auto 0;
+}
+
+.contador {
+    margin-bottom: 30px;
+}
+
+#blog {
+    text-align: justify;
+    background-color: #1d192c;
+    opacity: 0.8;
+    box-shadow: 0 5px 4px rgba(0,0,0, .6);
+}
+
+.separator {
+    width: 50px;
+    height: 5px;
+    background: white;
+}
+
+.blog,
+.blog a {
+    color: white !important;
+}
+
+.blog-cont{
+     padding: 5rem;
+}
+
+.top-space {
+    margin-top: 5rem;
+}
+
+.italic {
+    font-style: italic;
+}
+
+
+.img-carousel {
+    max-height: 50vh;
+}
+
+/* Configurar el tamano maximo de un slide*/
+.carousel .item {
+  height: 87vh;
+}
+
+.item img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-height: 100vh;
+}
+
+.v-space {
+    padding: 10% 0;
+}
+
+.img-pages {
+    width: 600px;
+    margin: 0 auto 5rem;
+}

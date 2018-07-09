@@ -1,0 +1,107 @@
+title = "Fisica"
+baseURL = "https://israteneda/fisicamru"
+languageCode = "en-us"
+theme = "airspace-hugo"
+publishDir = "docs"
+
+[menu]
+
+  [[menu.header]]
+    weight = 2
+    name = "Quiénes Somos"
+    url = "/quienesomos"
+  [[menu.header]]
+    weight = 3
+    name = "Servicios"
+    url = "/servicios"
+  [[menu.header]]
+    weight = 4
+    name = "Teoría"
+    url = "/teoria"
+  [[menu.header]]
+    weight = 5
+    name = "Evaluación"
+    url = "/evaluacion"
+
+  [[menu.footer]]
+    weight = 1
+    name = "Quiénes Somos"
+    url = "/quienesomos"
+  [[menu.footer]]
+    weight = 2
+    name = "Servicios"
+    url = "/servicios"
+  [[menu.footer]]
+    weight = 3
+    name = "Blog"
+    url = "/blog"
+  [[menu.footer]]
+    weight = 4
+    name = "Teoría"
+    url = "/teoria"
+  [[menu.footer]]
+    weight = 5
+    name = "Evaluación"
+    url = "/evaluacion"
+
+# The site's parameters
+[params]
+
+  # If you want to remove the copyright text you need a Themefisher license.
+  # This license is offered with a 50% discount for all Hugo users.
+  # For information see https://github.com/gohugoio/hugoThemes/issues/260
+
+  dateFormat = "6 January 2006"
+
+  home = "Inicio"
+
+  # [params.slider]
+  #   enable = true
+  #   title = "Movimiento Rectilíneo Uniforme"
+  #   subtitle = "Un movimiento es rectilíneo cuando un objeto describe una trayectoria recta respecto a un observador, y es uniforme cuando su velocidad es constante en el tiempo, dado que su aceleración es nula."
+
+  [params.wrapper]
+    enable = true
+    title = "Apredamos acerca del MRU"
+    italic = "Para entender este tipo de ejercicios tienes que tener claro qué es el movimiento rectilíneo uniforme."
+    paragraph = "Como su propio nombre indica, hablamos de movimiento rectilíneo uniforme cuando un cuerpo, ya sea un vehículo, un objeto, un animal, lo que sea, se mueve en línea recta a una velocidad constante:"
+    item1 = "Movimiento: Un cuerpo se mueve"
+    item2 = "Rectilíneo: En línea recta"
+    item3 = "Uniforme: A una velocidad constante"
+    postparagraph = "Es importante tener esto presente, ya que si alguna de estas premisas no se cumple, las fórmulas del movimiento rectilíneo uniforme ya no serían válidas."
+
+  [params.blog]
+    enable = true
+    title = "Get The Latest On What We're doing"
+    subtitle = "Catch up with us, anytime and anywhere"
+
+  [params.feature]
+    enable = true
+    title = "Es momento de evaluarte"
+    content = "Pon en práctica todo lo aprendido en esta página y dirigete hacia nuestro test."
+    [params.feature.button]
+      caption = "Realizar Test"
+      url = "evaluacion"
+
+  [params.call]
+    enable = true
+    title = "Movimiento Rectilíneo Uniforme."
+    paragraph = "Un movimiento es rectilíneo cuando un objeto describe una trayectoria recta respecto a un observador, y es uniforme cuando su velocidad es constante en el tiempo, dado que su aceleración es nula"
+
+  [params.contact]
+    enable = true
+    title = "Drop us a note"
+    subtitle = "Don’t just take our word for it. Check out some of our latest work."
+    [params.contact.form]
+      name = "Your name"
+      email = "Your email"
+      subject = "Your subject"
+      message = "Your message"
+      button = "Send message"
+    [params.contact.box]
+      title = "Stop by for a visit"
+      address = "North Main Street, Brooklyn Australia"
+      email = "Email: contact@mail.com"
+      phone = "Phone: +88 01672 506 744"
+    [params.contact.gmaps]
+      title = "We Also Count in Google Maps"
