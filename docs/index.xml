@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fisica</title>
-    <link>https://israteneda/fisicamru/</link>
+    <link>https://israteneda.com/fisicamru/</link>
     <description>Recent content on Fisica</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 06 Jul 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://israteneda/fisicamru/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://israteneda.com/fisicamru/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Importancia de la Física</title>
-      <link>https://israteneda/fisicamru/blog/importancia/</link>
+      <link>https://israteneda.com/fisicamru/blog/importancia/</link>
       <pubDate>Fri, 06 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://israteneda/fisicamru/blog/importancia/</guid>
+      <guid>https://israteneda.com/fisicamru/blog/importancia/</guid>
       <description>La Física es una de las ciencias naturales que más ha contribuido al desarrollo y bienestar del hombre, porque gracias a su estudio e investigación ha sido posible encontrar en muchos casos, una explicación clara y útil a los fenómenos que se presentan en nuestra vida diaria. en general y como se ha visto a travez de todo el blog podemos concluir que a pesar que se mencionaron pocos aspectos sobre como interactua la fisica en nuestras vidas a infinidad de otros factores que nos afectan que estan incluidos en la rama de la fisica.</description>
     </item>
     
     <item>
       <title>Qué es Física?</title>
-      <link>https://israteneda/fisicamru/blog/fisica/</link>
+      <link>https://israteneda.com/fisicamru/blog/fisica/</link>
       <pubDate>Fri, 06 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://israteneda/fisicamru/blog/fisica/</guid>
+      <guid>https://israteneda.com/fisicamru/blog/fisica/</guid>
       <description>La palabra física proviene del vocablo griego fisis que significa “naturaleza”. Es la ciencia que estudia las propiedades de los cuerpos y las leyes que rigen las transformaciones que afectan a su estado y a su movimiento, sin alterar su naturaleza. Es decir, la ciencia encargada de analizar las transformaciones o fenómenos físicos; por ejemplo, la caída de un cuerpo o la fusión de un hielo. La física es la ciencia más fundamental, está estrechamente relacionada con las demás ciencias naturales, y en cierto modo las engloba a todas.</description>
     </item>
     
     <item>
       <title>Evaluacion</title>
-      <link>https://israteneda/fisicamru/evaluacion/</link>
+      <link>https://israteneda.com/fisicamru/evaluacion/</link>
       <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://israteneda/fisicamru/evaluacion/</guid>
+      <guid>https://israteneda.com/fisicamru/evaluacion/</guid>
       <description> Loading Cuestionario de MRU var QuizWorks = window.QuizWorks || []; QuizWorks.push( [document.getElementById(&#34;embed-quiz-383509&#34;), &#34;quiz&#34;, &#34;383509&#34;, { autostart: false, width: &#34;100%&#34;, height: &#34;640px&#34; }] );    </description>
     </item>
     
     <item>
       <title>Quienesomos</title>
-      <link>https://israteneda/fisicamru/quienesomos/</link>
+      <link>https://israteneda.com/fisicamru/quienesomos/</link>
       <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://israteneda/fisicamru/quienesomos/</guid>
+      <guid>https://israteneda.com/fisicamru/quienesomos/</guid>
       <description>Empresa de desarrollo de software fundada en 1986 de acuerdo a las leyes del Ecuador.
 Para mediados de 1987, Fisica desarrolla el primer Software Aplicativo para la industria de seguros, específicamente para los corredores de seguros.
 Luego producto de un estudio del mercado y las tendencias, se alienta a desarrollar aplicaciones comerciales para microcomputadoras, las cuales estaban tomando fuerza para la época.
@@ -52,20 +52,20 @@ En la actualidad cuenta con una cartera de clientes, a los cuales les brinda el 
     
     <item>
       <title>Servicios</title>
-      <link>https://israteneda/fisicamru/servicios/</link>
+      <link>https://israteneda.com/fisicamru/servicios/</link>
       <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://israteneda/fisicamru/servicios/</guid>
+      <guid>https://israteneda.com/fisicamru/servicios/</guid>
       <description>En la ingeniería de software se denomina aplicación web a aquellas herramientas que los usuarios pueden utilizar accediendo a un servidor web a través de internet o de una intranet mediante un navegador. En otras palabras, es un programa que se codifica en un lenguaje interpretable por los navegadores web en la que se confía la ejecución al navegador.
 Las aplicaciones web son populares debido a lo práctico del navegador web como cliente ligero, a la independencia del sistema operativo, así como a la facilidad para actualizar y mantener aplicaciones web sin distribuir e instalar software a miles de usuarios potenciales.</description>
     </item>
     
     <item>
       <title>Teoria</title>
-      <link>https://israteneda/fisicamru/teoria/</link>
+      <link>https://israteneda.com/fisicamru/teoria/</link>
       <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://israteneda/fisicamru/teoria/</guid>
+      <guid>https://israteneda.com/fisicamru/teoria/</guid>
       <description>Un movimiento es rectilíneo cuando un objeto describe una trayectoria recta respecto a un observador, y es uniforme cuando su velocidad es constante en el tiempo, dado que su aceleración es nula.2​
 Nótese que el movimiento rectilíneo puede ser también no uniforme, y en ese caso la relación entre la posición y el tiempo es algo más compleja.
 Movimiento rectilíneo uniforme El movimiento rectilíneo uniforme se designa frecuentemente con el acrónimo MRU, aunque en algunos países es MRC, por movimiento rectilíneo constante.</description>

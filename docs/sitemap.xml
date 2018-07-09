@@ -3,54 +3,54 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://israteneda/fisicamru/blog/importancia/</loc>
+    <loc>https://israteneda.com/fisicamru/blog/importancia/</loc>
     <lastmod>2018-07-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://israteneda/fisicamru/blog/fisica/</loc>
+    <loc>https://israteneda.com/fisicamru/blog/fisica/</loc>
     <lastmod>2018-07-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://israteneda/fisicamru/evaluacion/</loc>
+    <loc>https://israteneda.com/fisicamru/evaluacion/</loc>
     <lastmod>2018-07-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://israteneda/fisicamru/quienesomos/</loc>
+    <loc>https://israteneda.com/fisicamru/quienesomos/</loc>
     <lastmod>2018-07-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://israteneda/fisicamru/servicios/</loc>
+    <loc>https://israteneda.com/fisicamru/servicios/</loc>
     <lastmod>2018-07-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://israteneda/fisicamru/teoria/</loc>
+    <loc>https://israteneda.com/fisicamru/teoria/</loc>
     <lastmod>2018-07-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://israteneda/fisicamru/blog/</loc>
-    <lastmod>2018-07-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://israteneda/fisicamru/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://israteneda/fisicamru/</loc>
+    <loc>https://israteneda.com/fisicamru/blog/</loc>
     <lastmod>2018-07-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://israteneda/fisicamru/tags/</loc>
+    <loc>https://israteneda.com/fisicamru/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://israteneda.com/fisicamru/</loc>
+    <lastmod>2018-07-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://israteneda.com/fisicamru/tags/</loc>
     <priority>0</priority>
   </url>
   
