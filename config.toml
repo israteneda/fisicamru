@@ -1,5 +1,5 @@
 title = "Fisica"
-baseURL = "https://israteneda.com/fisicamru"
+baseURL = "https://israteneda.com/fisicamru/"
 languageCode = "en-us"
 theme = "airspace-hugo"
 publishDir = "docs"
