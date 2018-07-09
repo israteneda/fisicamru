@@ -4,7 +4,7 @@ date = 2018-07-05
 draft = false
 +++
 
-{{< figure src="{{ .Site.BaseURL }}img/img/somos.png" width="1000px">}}
+{{< figure src="{{ .Site.BaseURL }}img/somos.png" width="1000px">}}
 
 
 Empresa de desarrollo de software fundada en 1986 de acuerdo a las leyes del Ecuador.
