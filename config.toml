@@ -72,8 +72,8 @@ publishDir = "docs"
 
   [params.blog]
     enable = true
-    title = "Get The Latest On What We're doing"
-    subtitle = "Catch up with us, anytime and anywhere"
+    title = "Blog de Fisica"
+    subtitle = "En física las palabras y las fórmulas están conectadas con el mundo real."
 
   [params.feature]
     enable = true
@@ -87,21 +87,3 @@ publishDir = "docs"
     enable = true
     title = "Movimiento Rectilíneo Uniforme."
     paragraph = "Un movimiento es rectilíneo cuando un objeto describe una trayectoria recta respecto a un observador, y es uniforme cuando su velocidad es constante en el tiempo, dado que su aceleración es nula"
-
-  [params.contact]
-    enable = true
-    title = "Drop us a note"
-    subtitle = "Don’t just take our word for it. Check out some of our latest work."
-    [params.contact.form]
-      name = "Your name"
-      email = "Your email"
-      subject = "Your subject"
-      message = "Your message"
-      button = "Send message"
-    [params.contact.box]
-      title = "Stop by for a visit"
-      address = "North Main Street, Brooklyn Australia"
-      email = "Email: contact@mail.com"
-      phone = "Phone: +88 01672 506 744"
-    [params.contact.gmaps]
-      title = "We Also Count in Google Maps"
