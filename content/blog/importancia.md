@@ -23,4 +23,4 @@ cuando cierras un poco el orificio de un tubo para conseguir que el agua llegue 
 poco más lejos. En la vida diaria, se hacen muchas cosas que son física aplicada 
 a las situaciones.
 
-{{< figure src="/img/pendulo.gif" class="img-blog img-responsive" >}}
+{{< figure src="fisicamru/img/pendulo.gif" class="img-blog img-responsive" >}}

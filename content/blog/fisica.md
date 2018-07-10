@@ -17,4 +17,4 @@ parte de la geología moderna es en esencia un estudio de la física de la Tierr
 y se conoce como geofísica; y la astronomía trata de la física de las estrellas 
 y del espacio exterior.
 
-{{< figure src="/img/fisica.png" class="img-blog img-responsive" >}}
+{{< figure src="fisicamru/img/fisica.png" class="img-blog img-responsive" >}}
