@@ -7,13 +7,9 @@ draft = false
 {{< figure src="/fisicamru/img/somos.png" width="1000px">}}
 
 
-Empresa de desarrollo de software fundada en 1986 de acuerdo a las leyes del Ecuador.
-
-Para mediados de 1987, Fisica desarrolla el primer Software Aplicativo para la industria de seguros, específicamente para los corredores de seguros.
-
-Luego producto de un estudio del mercado y las tendencias, se alienta a desarrollar
-aplicaciones comerciales para microcomputadoras, las cuales estaban tomando fuerza para la época.
-
-En la actualidad cuenta con una cartera de clientes, a los cuales les brinda el 
-soporte y asesoría técnica en las aplicaciones instaladas, a través de su personal, 
-el cual está en constante desarrollo y permanente capacitación producto de los avances tecnológicos. 
+Somos tres estudiantes de quinto nivel de la carrera de ingeniería de desarrollo 
+de software Barrera Erick de 20 años, Llamuca Andrea  de 21 años y Tenada Israel 
+tu edad que como tu tenemos inquietudes por aprender mas sobre diversos temas uno 
+de ellos el magnifico campo de la física por ello hemos decidido desarrollar esta
+pagina web con contenido valioso sobre temas de física que esperamos te puedan de 
+ser mucha ayuda. 

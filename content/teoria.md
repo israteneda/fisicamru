@@ -6,6 +6,8 @@ draft = false
 
 {{< figure src="/fisicamru/img/movimiento.png" width="500px">}}
 
+<h3>Movimiento Rectilineo Uniforme</h3>
+
 Un movimiento es rectilíneo cuando un objeto describe una trayectoria recta respecto 
 a un observador, y es uniforme cuando su velocidad es constante en el tiempo,
 dado que su aceleración es nula.2​
